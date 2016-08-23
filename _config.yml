@@ -1,4 +1,3 @@
-layout_spectrum: 0.15533620794303715
 typography_spectrum: 0.8219572256784886
 color:
   brandStrength: 0.7145091181155294
@@ -11,4 +10,6 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+layout_spectrum: 0.15533620794303715
 name: johnwill
+title: SNEAKERBAR
